@@ -1,16 +1,14 @@
-### Hi there 👋
 
-<!--
-**Mr-HumpbackMonkey/Mr-HumpbackMonkey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, Tôi là Mr.Humpback Monkey👋
+Một con khỉ lưng gù yêu thích robotics. Tôi có một kênh youtube về robotics hi vọng bạn sẽ thích nó.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Phản hồi
+
+Nếu bạn có bất cứ điều gì cần trao đổi với tôi, vui lòng liên hệ thông qua email: hbmonkey02@gmail.com hoặc:
+
+[![youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white
+)](https://www.youtube.com/channel/UC20kKiSRZSfx9HmHdrqNPDw/featured)
+[![tiktok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white
+)](https://www.tiktok.com/@humpback_monkey)
+
